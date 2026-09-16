@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="skills-hello-github-actions" default="compile" basedir=".">
+    <target name="compile">
+        <echo message="Hello from Ant build"/>
+    </target>
+</project>
